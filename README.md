@@ -73,6 +73,7 @@
 - [sand](https://github.com/banksean/sand) — Apple container CLI that clones a project into a disposable VM for a coding agent. *(★ 20, Apache-2.0)*
 - [HyperAgent](https://github.com/hyperlight-dev/hyperagent) — Runs model-written JavaScript in Hyperlight microVMs with explicit host plugins. *(★ 19, Apache-2.0)*
 - [ags](https://thomaspeklak.github.io/agent-sandbox/) — Rootless Podman CLI that runs coding agents in hardened containers. *(★ 16, MIT)*
+- [Sandbox0](https://sandbox0.ai) — Managed cloud computers for AI agents with gVisor isolation, persistent writable RootFS checkpoints, and on-demand compute.
 - [container2wasm](https://github.com/ktock/container2wasm) — Converts a container image into a WebAssembly virtual machine image. *(★ 7, Apache-2.0)*
 - [strangeClaw](https://github.com/itsthestranger/strangeClaw) — Self-hosted agent that can run inside Firecracker with a host-side request broker. *(★ 4, MIT)*
 - [CreateOS](https://createos.sh) — MicroVMs with pause-to-snapshot, fork, and private overlay networking for multi-agent runs. *(★ 3, MIT)*
