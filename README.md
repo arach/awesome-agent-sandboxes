@@ -23,6 +23,7 @@
 - [Daytona](https://www.daytona.io) — Sandbox infrastructure for AI-generated code. The public repository says it is no longer maintained as of June 2026. *(★ 71.7k)*
 - [OpenSandbox](https://open-sandbox.ai) — Alibaba sandbox runtime with pluggable Docker, gVisor, Kata, and Firecracker backends. *(★ 15.6k, Apache-2.0)*
 - [E2B](https://e2b.dev) — Firecracker microVM cloud for running agent-generated code, with a code-interpreter SDK and desktop sandboxes. *(★ 14k, Apache-2.0)*
+- [SandBase Sandbox](https://www.sandbase.ai/sandbox) — Hosted sandbox gateway that lets agents run commands and retrieve files through the E2B SDK.
 - [microsandbox](https://microsandbox.dev) — Embeddable libkrun microVM SDK that boots OCI images and keeps secrets on the host. *(★ 8.5k, Apache-2.0)*
 - [AIO Sandbox](https://sandbox.agent-infra.com) — All-in-one agent container image with a browser, shell, VS Code, Jupyter, and MCP. *(★ 6k, Apache-2.0)*
 - [Kubernetes Agent Sandbox](https://agent-sandbox.sigs.k8s.io) — Kubernetes APIs for agent workloads with pluggable gVisor and Kata isolation. *(★ 4.1k, Apache-2.0)*
