@@ -96,6 +96,7 @@
 - [Novita Agent Sandbox](https://novita.ai/sandbox) — Hosted agent sandboxes for code, desktop, and browser sessions, with an E2B-compatible SDK.
 - [OmniRun](https://omnirun.io) — Hosted Firecracker microVMs for ephemeral agent runs, with a European region option.
 - [Qbox](https://qbox.sh) — Self-hosted Firecracker orchestrator for agent sandboxes, with preview URLs and OCI templates.
+- [Sandscale](https://sandscale.dev) — Hosted Firecracker microVM sandboxes and cloud workspaces for coding agents, driven by a REST API, TypeScript SDK, CLI, or remote MCP server, with snapshots and pause and resume.
 - [shellbox.dev](https://shellbox.dev) — SSH-accessible hosted Linux boxes for agent and developer shells.
 - [Sprites](https://sprites.dev) — Fly.io persistent Firecracker VMs with checkpoints, exec sessions, and egress policies.
 - [VibeKit](https://docs.vibekit.sh) — SDK that starts coding-agent sessions on E2B, Daytona, Modal, and similar backends.
